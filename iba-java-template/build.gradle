@@ -1,0 +1,9 @@
+plugins {
+    id "java"
+}
+
+group = "az.ingress"
+
+javaToolchains {
+    version = JavaVersion.VERSION_17
+}
